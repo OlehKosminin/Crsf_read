@@ -1,0 +1,3 @@
+../Core/Src/pwm.c:4:6:map	24	static
+../Core/Src/pwm.c:10:6:process_RC_channels	32	static
+../Core/Src/pwm.c:35:10:get_pwm_value	16	static
